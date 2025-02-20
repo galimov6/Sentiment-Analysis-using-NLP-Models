@@ -4,7 +4,6 @@
 This project aims to perform sentiment analysis on restaurant reviews from Trip Advisor using 3 different models, Spark NLP, Vader NLP, and Viviken. The analysis is performed on the "Trip Advisor New York City Restaurants Dataset (10k)" from Kaggle. The performance of the different models was measured by the accuracy of the sentiment analysis and the latency in execution time.
 
 Setup
-
 Clone the repository:
 
     bash git clone https://github.com/your-username/restaurant-sentiment-analysis.git
